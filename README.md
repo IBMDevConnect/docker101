@@ -26,7 +26,7 @@ docker container rm -f $(docker ps -aq)
 
 ## Asignment 2:
 
-- Download app.zip from git repo or from [here](http://ip172-18-0-47-c1mgkhpbqvp000aacg80-80.direct.labs.play-with-docker.com/assets/app.zip)
+- Download app.zip from git repo or from [here](https://github.com/IBMDevConnect/docker101/raw/main/app.zip)
 - Drag & drop it on Docker playground terminal
 - Execute the following command in sequence
 
