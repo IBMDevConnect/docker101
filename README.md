@@ -24,7 +24,7 @@ exit
 docker container rm -f $(docker ps -aq)
 ```
 
-## Asignment 2:
+## Assignment 2:
 
 - Download app.zip from git repo or from [here](https://github.com/IBMDevConnect/docker101/raw/main/app.zip)
 - Drag & drop it on Docker playground terminal
