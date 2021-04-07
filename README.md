@@ -51,7 +51,7 @@ CMD [“node”, “/app/src/index.js”]
 - Drag and drop Dockerfile into the Play with Docker terminal
 
 ```
-docker build -t docker-101:1.0
+docker build -t docker-101:1.0 .
 docker image ls
 ```
 
